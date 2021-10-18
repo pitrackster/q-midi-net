@@ -1,0 +1,14 @@
+{
+    "name": "q-midi-net",
+    "version": "0.0.1",
+    "description": "Basic send midi message via QmidiNet / UDP test",
+    "main": "main.js",
+    "author": "Pitrackster",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^15.2.0"
+    },
+    "scripts": {
+        "start": "electron ."
+    }
+}
